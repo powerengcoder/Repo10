@@ -21,7 +21,7 @@ var myMusic = {
         2: "OY",
         3: "OZ"
     },
-    gold: true
+    gold: false
 }
 };
 return myMusic;
