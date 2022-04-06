@@ -6,9 +6,9 @@ shoes: "Converse"
 };
 
 function myFunction(myObj){
-hatValue = myObj.hat;
-shirtValue = myObj.shirt;
-shoesValue = myObj.shoes;
+var hatValue = myObj.hat;
+var shirtValue = myObj.shirt;
+var shoesValue = myObj.shoes;
 
 return { hatValue, shirtValue, shoesValue };
 
